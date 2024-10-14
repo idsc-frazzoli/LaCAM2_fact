@@ -48,6 +48,8 @@ temp/
 # End of https://www.toptal.com/developers/gitignore/api/c++
 **/.DS_Store
 **/build/
+**/cmake-build-debug/
+**/cmake-build-release/
 **/local/
 Manifest.toml
 map
